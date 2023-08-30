@@ -1,0 +1,30 @@
+
+This is what I have done for the project:
+
+1.  I have created a polymorphic special ability based on the warrior's class. (7 points)
+    These abilities are the following: 
+        1. Human - healing ability
+        2. Elf - dexterity bonus buff
+        3. Orc - strength bonus buff
+
+
+2.  Provide a way for the player to play again (without restarting the program from the beginning) (3 points)
+    saving the game, and playing again with a reset().
+        The player is able to save and restart the game at the end of the game.
+
+
+3.  Giving the player the ability to surrender. (1 point)
+        The player is able to surrender if their health falls below 100.
+
+    
+4.  Track the number of turns, the total damage done and print these stats after the match (when game ends). (1 point)
+        Prints all of this information at the end of the game.
+
+
+5. Prompt the user for a name for their warrior and randomly assign a name to the enemy - must be used during the match (as in print outs)
+you can create a names class for the enemy. (2 points)
+        Will prompt the user to name themselves at the beginning of the game and will generate enemy name.
+
+
+6. Add some color to the output in the terminal. (1 point)
+        Added a little bit of colour to make important parts easily noticeable.
